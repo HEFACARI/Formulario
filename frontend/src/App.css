@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background: linear-gradient(90.21deg, #ADD8E6  -5.91%, #90EE90 111.58%);
+}
+
+.forms{
+  padding: 50px 0; /*centrar de manera vertical*/
+  text-align: center;
+  width: 200px; /*centrar el elemento*/
+  margin: 0 auto; /*centrar el elemento*/
+  margin-left: 800px;
+}
+
+.forms img{
+  width: 100px;
+}
+
+.container{
+  padding: 50px 0; /*centrar de manera vertical*/
+  text-align: center;
+  width: 200px; /*centrar el elemento*/
+  margin: 0 auto; /*centrar el elemento*/
+  margin-left: 800px;
+}
